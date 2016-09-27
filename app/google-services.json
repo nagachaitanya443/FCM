@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "67513469460",
+    "firebase_url": "https://fir-zippr.firebaseio.com",
+    "project_id": "fir-zippr",
+    "storage_bucket": "fir-zippr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67513469460:android:b6ad30978f351a85",
+        "android_client_info": {
+          "package_name": "com.zippr.firebasezippr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67513469460-3eh3dj06uiorl66tl7ludn2v0fqogtmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSv6R4fA3GDwzFbxdANfd8Qdpmn4nFlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
